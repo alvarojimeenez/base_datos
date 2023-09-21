@@ -137,3 +137,9 @@ img{
     background-image: url(futbol.jpg);
     background-size: cover;
 }
+
+#titulo_footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 13px;
+    margin-left: 6px;
+}
